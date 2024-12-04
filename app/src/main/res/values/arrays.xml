@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="warmup_exercises">
+        <item>Jumping jacks</item>
+        <item>Arm circles</item>
+        <item>Leg swings</item>
+        <item>Light jog in place</item>
+    </string-array>
+
+    <string-array name="cardio_exercises">
+        <item>Running</item>
+        <item>Cycling</item>
+        <item>Jump rope</item>
+        <item>Burpees</item>
+        <item>Mountain climbers</item>
+    </string-array>
+
+    <string-array name="strength_exercises">
+        <item>Push-ups</item>
+        <item>Squats</item>
+        <item>Lunges</item>
+        <item>Plank</item>
+        <item>Dumbbell rows</item>
+        <item>Bicep curls</item>
+        <item>Tricep dips</item>
+    </string-array>
+
+    <string-array name="cooldown_exercises">
+        <item>Static stretches</item>
+        <item>Yoga poses</item>
+        <item>Deep breathing</item>
+        <item>Light walking</item>
+    </string-array>
+</resources>
+
